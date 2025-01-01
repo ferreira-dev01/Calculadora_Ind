@@ -1,0 +1,77 @@
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  p {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  .rounded-circle {
+    height: auto;
+    width: 110px;
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 700px) {
+  .rounded-circle {
+    height: auto;
+    width: 140px;
+  }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 9000px) {
+  .rounded-circle {
+    height: auto;
+    width: 160px;
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  label {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+  .input_dados {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 700px) {
+  p {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 700px) {
+  label {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 700px) {
+  .input_dados {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 9000px) {
+  p {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 9000px) {
+  label {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 9000px) {
+  .input_dados {
+    font-size: 25px;
+  }
+}
+
